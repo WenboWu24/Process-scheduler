@@ -35,7 +35,7 @@ Run the preset demo cases.
 - `MFQ` - Multi-Level Feedback Queue, 3 levels with quantum times 2, 4, and FCFS
 ## Input File Format
 
-Each line in the workload file represents a process with the following format:
+Each line in the workload file represents a process with the following format
 
 <Process ID> <Arrival Time> <Burst Time>
 
