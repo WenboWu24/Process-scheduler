@@ -32,8 +32,7 @@ Run the preset demo cases.
 - `FCFS` - First-Come, First-Served
 - `SJF` - Shortest Job First
 - `SRTF` - Shortest Remaining Time First
-- `MFQ` - Multi-Level Feedback Queue
-
+- `MFQ` - Multi-Level Feedback Queue, 3 levels with quantum times 2, 4, and FCFS
 ## Input File Format
 
 Each line in the workload file represents a process with the following format:
@@ -45,7 +44,6 @@ Each line in the workload file represents a process with the following format:
 P1 0 5
 P2 1 3
 P3 2 1
-P4 3 2
 ```
 
 ## Context Switch Calculation
