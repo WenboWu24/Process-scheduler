@@ -43,7 +43,6 @@ Each line in the workload file represents a process with the following format:
 
 P1 0 5
 P2 1 3
-P3 2 1
 ```
 
 ## Context Switch Calculation
